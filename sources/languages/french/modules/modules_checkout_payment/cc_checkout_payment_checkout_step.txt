@@ -1,0 +1,2 @@
+module_checkout_payment_checkout_step_title = Souhaitez-vous afficher les étapes du processus de paiement ?
+module_checkout_payment_checkout_step_description = Afficher les étapes du processus de paiement
